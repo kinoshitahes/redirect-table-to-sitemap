@@ -1,0 +1,8 @@
+{
+  "name": "redirect-table-to-sitemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.py",
+  "author": "Haruki Kinoshita",
+  "license": "MIT"
+}

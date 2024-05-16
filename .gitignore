@@ -1,0 +1,6 @@
+.gitgnore
+redirectTable.csv
+url.csv
+url.csv_output.csv
+sitemap.xml
+redirector.py
